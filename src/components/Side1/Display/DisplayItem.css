@@ -1,0 +1,16 @@
+.DateTemp-container{
+    width: 10%;
+  text-align: center;
+  /* border: 2px solid #696969;
+  border-radius: 20px; */
+}
+
+.DateTemp-container h5{
+    color: #232323;
+}
+
+.DateTemp-container h4{
+   color: #696969;
+   font-weight: normal;
+}
+

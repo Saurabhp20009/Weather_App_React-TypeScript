@@ -1,0 +1,22 @@
+.weather-container{
+    background-color: #e9e9e9;
+    padding: 12vh;
+}
+
+.sides-flex{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+@media only screen and (max-width: 767px) {
+    .weather-container{
+        padding: 2vh;
+        height: 100vh;
+    }
+
+   .sides-flex{
+    flex-direction: column;
+   } 
+}

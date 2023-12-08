@@ -1,0 +1,39 @@
+.side2-container{
+    background-color: #f6f6f6;
+    width: 30%;
+}
+
+.side2-head{
+    text-align: center;
+}
+
+.side2-head h3 ,h4 {
+    font-weight: 600;
+    color: #202020;
+}
+
+.side2-body{
+    text-align: center;
+}
+
+.side2-body h4{
+    font-weight: 600;
+    color: #202020;
+}
+
+.displayIcon svg{
+   height: 120px;
+   width: 120px;
+   color: #696969;
+}
+
+.displayIcon h2{
+  font-weight: lighter;
+}
+
+
+@media only screen and (max-width: 767px) {
+.side2-container{
+    width: 100%;
+}
+}
